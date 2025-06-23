@@ -14,7 +14,7 @@ Assistant CLI interactif pour créer, gérer et déployer des projets fullstack 
 ## 🚀 Installation
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/<ton-utilisateur>/<ton-repo>/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/tomtomysteria/dev-assist/main/install.sh | bash
 ```
 
 ## ❌ Désinstallation
